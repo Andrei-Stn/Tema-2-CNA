@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option csharp_namespace = "Tema2CNA.Protos";
+
+service Zodiac{
+	rpc GetZodiacSign (DateRequest) returns (ZodiacReply);
+}
+
+message DateRequest{
+	string birthday = 1;
+}
+
+message ZodiacReply{
+	string sign = 1;
+}

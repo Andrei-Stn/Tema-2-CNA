@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema2CNA", "Tema2CNA\Tema2CNA.csproj", "{48C26AE6-F9C7-4EF1-9591-096DC4C8EC5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{F93FE92D-C0C1-4912-86F9-64B5153C8068}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48C26AE6-F9C7-4EF1-9591-096DC4C8EC5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48C26AE6-F9C7-4EF1-9591-096DC4C8EC5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48C26AE6-F9C7-4EF1-9591-096DC4C8EC5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48C26AE6-F9C7-4EF1-9591-096DC4C8EC5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F93FE92D-C0C1-4912-86F9-64B5153C8068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F93FE92D-C0C1-4912-86F9-64B5153C8068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F93FE92D-C0C1-4912-86F9-64B5153C8068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F93FE92D-C0C1-4912-86F9-64B5153C8068}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DD06F96-1DAA-4BE2-A105-DB246B006E1C}
+	EndGlobalSection
+EndGlobal
